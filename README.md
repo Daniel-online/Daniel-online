@@ -1,9 +1,5 @@
-### Hi there 👋
+Hi there, Devs 👋
 
-<!--
-**Daniel-online/Daniel-online** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on my College's model Enterprise (voluntary)...
 - 🌱 I’m currently learning:
@@ -14,5 +10,24 @@ JavaScript, SQL, Java and C...
 - 📫 How to reach me: 
 danielplayeraffonso@gmail.com
 2111312061@uezo.edu.br
-- ⚡ Freelancer: Yes! Contact me for more info ...
--->
+linkedin.com/in/daniel-lourenço-affonso-developer
+- ⚡ Freelancer: Yes! Take a look in my VintePila and my workana account ...
+
+
+
+Olá comunidade Dev 👋
+
+
+- 🔭 Atualmente estou trabalhando como voluntário na empresa Jr da minah faculdade...
+- 🌱 Linguagens que estou estudando no momento:
+JavaScript, typescript, SQL, Java and C...
+- 👯 Procuro participar ativamente ...
+- 🤔 Estou procurando ajuda para montar meu primeiro site portfolio...
+- 💬 Não se incomode em me perguntar algo sobre meus repositórios, toda ajuda é bem vinda!...
+- 📫 Meus meio de contato: 
+danielplayeraffonso@gmail.com
+2111312061@uezo.edu.br
+linkedin.com/in/daniel-lourenço-affonso-developer
+- ⚡ Freelancer: Sim! Dê uma olhada no meu VintePila e no meu Workana
+-  https://www.vintepila.com.br/user-profile/MTcwMzQ4NjQ3MTM=/ ...
+
