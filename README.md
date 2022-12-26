@@ -27,7 +27,7 @@ JavaScript, typescript, SQL, Java and C...
 - 📫 Meus meio de contato: 
 danielplayeraffonso@gmail.com
 2111312061@uezo.edu.br
-linkedin.com/in/daniel-lourenço-affonso-developer
+linkedin.com/in/affonso-online
 - ⚡ Freelancer: Sim! Dê uma olhada no meu VintePila e no meu Workana
 -  https://www.vintepila.com.br/user-profile/MTcwMzQ4NjQ3MTM=/ ...
 
