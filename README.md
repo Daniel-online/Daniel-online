@@ -10,7 +10,7 @@ JavaScript, SQL, Java and C...
 - 📫 How to reach me: 
 danielplayeraffonso@gmail.com
 2111312061@uezo.edu.br
-linkedin.com/in/daniel-lourenço-affonso-developer
+http://www.linkedin.com/in/affonso-online
 - ⚡ Freelancer: Yes! Take a look in my VintePila and my workana account ...
 
 
@@ -27,7 +27,7 @@ JavaScript, typescript, SQL, Java and C...
 - 📫 Meus meio de contato: 
 danielplayeraffonso@gmail.com
 2111312061@uezo.edu.br
-linkedin.com/in/affonso-online
+http://www.linkedin.com/in/affonso-online
 - ⚡ Freelancer: Sim! Dê uma olhada no meu VintePila e no meu Workana
 -  https://www.vintepila.com.br/user-profile/MTcwMzQ4NjQ3MTM=/ ...
 
