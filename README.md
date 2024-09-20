@@ -1,29 +1,15 @@
-Hi there, Devs 👋 🇬🇧 
+###Thanks for checking my profile!
+Here, take this with you 💎
 
+As you can see through from my projects dashboard, i am a developer with avariety of interests. I like to build SAPs and APIs for the web 🌐.
+Sometimes i venture into frontend and sometimes into backend. That said, my professional specialization is on **Node.js** 🟩 and i aim to become a core contributor to the project.
+I am a **Java** 🟧 explorer and a **Ruby** 🟥, **Golang** 🟦 and **Python** 🐍 enthusiast as well. 
 
-- 🔭 I’m currently working on Vibra Energia as Data Analyst intern...
-- 🌱 I’m currently learning and improving my skills in:
-React.js, Python (Flask, Django, FastAPI, Dash, Pandas, Flet,Tkinter, PyAutoGUI),Postman, Postgre, Docker...
-- 👯 I’m looking to collaborate on open source and private source projects with high demand of users ...
-- 🤔 I’m highly interested in fast servers, deployment techniques and Golang
-- 💬 Ask me about anything you might think could help you to understand my repositories...
-- 📫 How to reach me: 
-danielplayeraffonso@gmail.com, 2111312061@uezo.edu.br, http://www.linkedin.com/in/affonso-online
-- ⚡ Freelancer? Yes! Say hi to me on my linkedin account 
+My journey of web development has brought me to two conclusions: we need more security on the web and we need simpler production workflows. These two statements may often conflict, but creating the balance within both is what made me interest in deep diving into everyday technology to make it better than we thought it could be.
 
+I speak fluent portuguese 🇧🇷 and english 🇺🇸, i know medium spanish 🇲🇽 and i will be learning japanese 🗾 for the next 3 years  
 
+Right now i am working on my **Node.js**🟩 certification by the _Linux foundation_.
+Here's my [linkedin](https:www.linkedin/in/affonso-online) and my professional [email](danielourencoaffonso@gmail.com) for contact.
 
-Olá comunidade Dev 👋 🇧🇷
-
-
-- 🔭 Atualmente estou trabalhando na Vibra Energia como estagiário em Análise de Dados ...
-- 🌱 Linguagens e bibliotecas que estou estudando ou aprimorando no momento:
-React.js, Python (Flask, Django, FastAPI, Dash, Pandas, Flet,Tkinter, PyAutoGUI),Postman, Postgre, Docker...
-- 👯 Procuro participar ativamente em projetos com alta demanda de usuários e APIs Rest ...
-- 🤔 Estou altamente interessado em servidores backend rápidos, técnicas de deploy e Golang
-- 💬 Não se incomode em me perguntar algo sobre meus repositórios, toda ajuda é bem vinda!...
-- 📫 Meus meio de contato: 
-danielplayeraffonso@gmail.com, 2111312061@uezo.edu.br, http://www.linkedin.com/in/affonso-online
-- ⚡ Freelancer? Sim! Dê um olá para mim no linkedin
-.
-
+Have a nice coding!
