@@ -1,4 +1,4 @@
-###Thanks for checking my profile!
+### Thanks for checking my profile!
 Here, take this with you 💎
 
 As you can see through from my projects dashboard, i am a developer with avariety of interests. I like to build SAPs and APIs for the web 🌐.
