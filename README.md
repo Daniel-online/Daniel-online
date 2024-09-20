@@ -1,7 +1,7 @@
 ### Thanks for checking my profile!
 Here, take this with you 💎
 
-As you can see through from my projects dashboard, i am a developer with avariety of interests. I like to build SAPs and APIs for the web 🌐.
+As you can see through from my projects dashboard, i am a developer with a variety of interests. I enjoy building SAPs and APIs for the web 🌐, creating desktop webs and cli tools as well.
 Sometimes i venture into frontend and sometimes into backend. That said, my professional specialization is on **Node.js** 🟩 and i aim to become a core contributor to the project.
 I am a **Java** 🟧 explorer and a **Ruby** 🟥, **Golang** 🟦 and **Python** 🐍 enthusiast as well. 
 
